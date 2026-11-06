@@ -4,11 +4,11 @@
 
 ### Backend Developer · C# / ASP.NET Core · AI Automation
 
-I enjoy building practical applications, connecting systems,
-and turning repetitive workflows into useful automation.
+Building practical applications, connecting systems,
+and turning repetitive work into useful automation.
 
-[![GitHub](https://img.shields.io/badge/GitHub-SnowvyTH-181717?style=flat-square&logo=github)](https://github.com/SnowvyTH)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:supanat617@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SnowvyTH-181717?style=for-the-badge&logo=github)](https://github.com/SnowvyTH)
+[![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supanat617@gmail.com)
 
 </div>
 
@@ -16,14 +16,42 @@ and turning repetitive workflows into useful automation.
 
 ## 👨‍💻 About Me
 
-I'm an Information Systems graduate focused on backend development,
-with hands-on experience building web applications, working with databases,
-and automating workflows.
+I'm an Information Systems graduate focused on **backend development**.
+I enjoy designing applications that solve real problems—from working with
+databases and APIs to building AI-assisted workflows.
 
-- 🔭 Built an HR self-service chatbot using **n8n, RAG, Supabase, and LINE**
-- 🏥 Developed an academic assessment system with **ASP.NET Core MVC and SQL Server**
-- 🌱 Exploring backend architecture, API integration, and AI-assisted automation
+- 🔧 Building with **C#, ASP.NET Core, and SQL Server**
+- 🤖 Exploring **RAG, n8n, and workflow automation**
+- 🌱 Learning more about **backend architecture and API integration**
 - 💼 Interested in **Junior Software Developer** and **Backend Developer** roles
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [HR Self-Service Chatbot with RAG](https://github.com/SnowvyTH/Hr-Chatbot)
+
+A co-op project that brings HR self-service to LINE. Employees can ask
+questions using a document-based knowledge base and review a confirmation
+before submitting a leave request.
+
+`n8n` `LINE Messaging API` `Supabase` `PostgreSQL` `RAG`
+
+### 🏥 [Abnormal Movement Assessment System](https://github.com/SnowvyTH/SeniorProject)
+
+An academic web application for healthcare staff to manage patient records,
+complete structured assessments, and generate reports.
+
+`C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
+
+### 🌱 [Vue & Nuxt 3 Practice](https://github.com/SnowvyTH/Basic-Vue-Nuxt3-with-Prisma-Supabase)
+
+A practice repository for exploring full-stack development with Vue,
+Nuxt 3, Prisma, and Supabase.
+
+`Vue` `Nuxt 3` `Prisma` `Supabase`
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -43,6 +71,8 @@ and automating workflows.
 
 **Frontend**
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -56,45 +86,25 @@ and automating workflows.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Featured Work
+---
 
-### [Abnormal Movement Assessment System](https://github.com/SnowvyTH/SeniorProject)
+## 🏆 A Few Highlights
 
-An academic web application that helps healthcare staff manage patient records,
-complete structured assessments, and generate reports.
-
-`C#` `ASP.NET Core MVC` `EF Core` `SQL Server`
-
-### [HR Self-Service Chatbot with RAG](https://github.com/SnowvyTH/Hr-Chatbot)
-
-A co-op project that connects LINE with HR workflows and a document-based
-knowledge base. It supports policy questions and leave requests, with a
-confirmation step before submission.
-
-`n8n` `LINE Messaging API` `Supabase` `PostgreSQL` `RAG`
-
-### [Vue & Nuxt 3 Practice](https://github.com/SnowvyTH/Basic-Vue-Nuxt3-with-Prisma-Supabase)
-
-A practice repository for exploring Vue, Nuxt 3, Prisma, and Supabase.
-
-`Vue` `Nuxt 3` `Prisma` `Supabase`
-
-## 🏆 Highlights
-
-- 🥇 Gold Medal — National Computer Programming Skills Competition, 2023
-- 🥈 Silver Medal — National Software Innovation Competition, 2024
-
-## 📫 Let's Connect
-
-I'm interested in opportunities to build useful software and keep learning
-with a development team.
-
-**Email:** [supanat617@gmail.com](mailto:supanat617@gmail.com)
+🥇 **Gold Medal** — National Computer Programming Skills Competition, 2023  
+🥈 **Silver Medal** — National Software Innovation Competition, 2024
 
 ---
 
 <div align="center">
-  Thanks for stopping by! ✨
+
+### Let's build something useful together ✨
+
+I'm interested in opportunities to learn, collaborate,
+and build software that makes a difference.
+
+📫 **[supanat617@gmail.com](mailto:supanat617@gmail.com)**
+
 </div>
