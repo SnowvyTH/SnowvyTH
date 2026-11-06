@@ -67,7 +67,7 @@ complete structured assessments, and generate reports.
 
 `C#` `ASP.NET Core MVC` `EF Core` `SQL Server`
 
-### HR Self-Service Chatbot with RAG
+### [HR Self-Service Chatbot with RAG](https://github.com/SnowvyTH/Hr-Chatbot)
 
 A co-op project that connects LINE with HR workflows and a document-based
 knowledge base. It supports policy questions and leave requests, with a
